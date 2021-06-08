@@ -4,8 +4,8 @@
 
 # Used API: https://exchangeratesapi.io/
 
-![alt text](https://github.com/JonTimus/currency_converter/tree/master/public/1.jpg)
-![alt text](https://github.com/JonTimus/currency_converter/tree/master/public/2.jpg)
+![alt text](https://github.com/JonTimus/currency_converter/blob/master/public/1.jpg?raw=true)
+![alt text](https://github.com/JonTimus/currency_converter/blob/master/public/2.jpg?raw=true)
 
 
 ## Available Scripts
