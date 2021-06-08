@@ -4,6 +4,10 @@
 
 # Used API: https://exchangeratesapi.io/
 
+![alt text](https://github.com/JonTimus/currency_converter/tree/master/public/1.jpg)
+![alt text](https://github.com/JonTimus/currency_converter/tree/master/public/2.jpg)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
