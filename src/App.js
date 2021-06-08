@@ -1,7 +1,7 @@
 import React from "react";
 import { useEffect, useState } from "react";
 import "./App.css";
-import CurrencyLogic from "./CurrencyLogic";
+import CurrencyLogic from "./components/CurrencyLogic";
 
 const BASE_URL_API =
   "http://api.exchangeratesapi.io/v1/latest?access_key=8ff5d2ad8242f77f234452af094cedbc";
@@ -65,6 +65,7 @@ function App() {
     <React.Fragment>
       <h1>Конвертер Валют на ReactJS</h1>
       <h2>Конвертер</h2>
+
       <CurrencyLogic
         currencyVariants={currencyVariants}
         selectedCurrency={fromCurrency}
